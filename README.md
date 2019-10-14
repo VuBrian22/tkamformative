@@ -8,6 +8,6 @@ This site was built on Bootstrap 4 and its librabries. The purpose was for an En
 
 Acknowledgements/Extras
 
--Hosted by Netlify © 2019
--Framework: Bootstrap 4
--Bootstrap CDN
+-Hosted by Netlify © 2019                                                                                                                 
+-Framework: Bootstrap 4                                                                                                                   
+-Bootstrap CDN                                                                                                                             
