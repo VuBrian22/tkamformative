@@ -11,4 +11,4 @@ Acknowledgements/Extras
 -Hosted by Netlify © 2019                                                                                                                 
 -Framework: Bootstrap 4                                                                                                                   
 -Bootstrap CDN                                                                                                                     
--jquery 3.41
+-jquery 3.41 (Bootstrap Framework Provided)
